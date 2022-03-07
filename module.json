@@ -1,0 +1,9 @@
+{
+  "name": "harrower",
+  "title": "Harrower",
+  "description": "A module for all your Pathfinder 1e harrow needs.",
+  "author": "DrPopcorn",
+  "version": "0.0.1",
+  "minimumCoreVersion": "9.236",
+  "system": ["pf1"]
+}
