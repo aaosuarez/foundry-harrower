@@ -4,6 +4,20 @@
   "description": "A module for all your Pathfinder 1e harrow needs.",
   "author": "DrPopcorn",
   "version": "0.0.1",
-  "minimumCoreVersion": "9.236",
-  "system": ["pf1"]
+  "minimumCoreVersion": "0.80.0",
+  "compatibleCoreVersion": "9.236",
+  "system": ["pf1"],
+  "scripts": [
+    "scripts/harrower.js"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    }
+  ],
+  "styles": [
+    "styles/harrower.css"
+  ]
 }
